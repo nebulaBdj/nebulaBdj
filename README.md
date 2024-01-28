@@ -32,8 +32,8 @@ ___
 
 ### Back-End:
 ![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![]()
-![mysql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![express]()
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![sequelize](https://img.shields.io/badge/sequelize-8ccfff?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![]()
 ![]()
@@ -45,15 +45,13 @@ ___
 ![]()
 
 ### DevOps:
-![]()
-![]()
+![awsec2]()
+![awsrds]()
+![awss3]()
+![nginx]()
+![vercel]()
 ![netflify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+
 ![]()
 ![]()
 
