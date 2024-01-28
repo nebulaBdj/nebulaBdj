@@ -35,9 +35,9 @@ ___
 ![sequelize](https://img.shields.io/badge/sequelize-8ccfff?style=flat-square&logo=sequelize&logoColor=blue)
 
 ### DevOps:
-![awsec2](https://img.shields.io/badge/AmazonEC2-005C84?style=flat-square&logo=Amazonec2&logoColor=white)
+![awsec2](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=Amazonec2&logoColor=white)
 ![awsrds](https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=Amazonrds&logoColor=white)
-![awss3](https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=Amazones3&logoColor=white)
+![awss3](https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![netflify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
