@@ -37,7 +37,7 @@ ___
 ![sequelize](https://img.shields.io/badge/sequelize-8ccfff?style=for-the-badge&logo=sequelize&logoColor=blue)
 
 ### DevOps:
-![awsec2](https://img.shields.io/badge/AWS EC2-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![awsec2](https://img.shields.io/badge/Amazonec2-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![awsrds]()
 ![awss3]()
 ![nginx]()
