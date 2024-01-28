@@ -25,7 +25,7 @@ ___
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![recoil](https://img.shields.io/badge/Recoil-1572B6?style=for-the-badge&logo=Recoil&logoColor=white)
+![recoil](https://img.shields.io/badge/Recoil-FF4655?style=for-the-badge&logo=Recoil&logoColor=white)
 ![zustand](https://img.shields.io/badge/Zustand-1572B6?style=for-the-badge&logo=Zustand&logoColor=white)
 ![tailwindCsss](https://img.shields.io/badge/TailwindCss-1572B6?style=for-the-badge&logo=TailwindCss&logoColor=white)
 ![styledComponent](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
