@@ -21,26 +21,26 @@ ___
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ### Front-End:
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoClor=fff&style=for-the-badge)
-![recoil](https://img.shields.io/badge/Recoil-FF4655?style=for-the-badge&logo=Recoil&logoColor=white)
-![zustand](https://img.shields.io/badge/Zustand-786032?style=for-the-badge&logo=Zustand&logoColor=white)
-![tailwindCsss](https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white)
-![styledComponent](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoClor=fff&style=flat-square)
+![recoil](https://img.shields.io/badge/Recoil-FF4655?style=flat-square&logo=Recoil&logoColor=white)
+![zustand](https://img.shields.io/badge/Zustand-786032?style=flat-square&logo=Zustand&logoColor=white)
+![tailwindCsss](https://img.shields.io/badge/TailwindCss-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
+![styledComponent](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
 ### Back-End:
-![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![sequelize](https://img.shields.io/badge/sequelize-8ccfff?style=for-the-badge&logo=sequelize&logoColor=blue)
+![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![sequelize](https://img.shields.io/badge/sequelize-8ccfff?style=flat-square&logo=sequelize&logoColor=blue)
 
 ### DevOps:
-![awsec2](https://img.shields.io/badge/Amazonec2-005C84?style=for-the-badge&logo=Amazonec2&logoColor=white)
-![awsrds]()
-![awss3]()
-![nginx]()
-![vercel]()
-![netflify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![awsec2](https://img.shields.io/badge/AmazonEC2-005C84?style=flat-square&logo=Amazonec2&logoColor=white)
+![awsrds](https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=Amazonrds&logoColor=white)
+![awss3](https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=Amazones3&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![netflify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 
 
