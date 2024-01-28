@@ -52,5 +52,5 @@ ___
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)
 ![ERDCloud](https://img.shields.io/badge/ERDCloud-cf45d9?style=flat-square&logo=ERDCloud&logoColor=white)
