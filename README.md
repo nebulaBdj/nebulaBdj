@@ -45,12 +45,9 @@ ___
 
 
 ### Tools:
-![figma](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![slack](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![notion](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![git](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![github](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![ERDCloud](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![]()
-![]()
-![]()
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+![ERDCloud](https://img.shields.io/badge/ERDCloud-00C7B7?style=flat-square&logo=ERDCloud&logoColor=white)
