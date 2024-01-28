@@ -29,7 +29,7 @@ ___
 ![recoil](https://img.shields.io/badge/Recoil-FF4655?style=flat-square&logo=Recoil&logoColor=white)
 ![zustand](https://img.shields.io/badge/Zustand-786032?style=flat-square&logo=Zustand&logoColor=white)
 ![tailwindCsss](https://img.shields.io/badge/TailwindCss-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
-![styledComponent](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-DB7093?style=flat-square&logo=sass&logoColor=white)
 
 ### Back-End:
 ![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
