@@ -35,32 +35,22 @@ ___
 ![express]()
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![sequelize](https://img.shields.io/badge/sequelize-8ccfff?style=for-the-badge&logo=sequelize&logoColor=blue)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
 
 ### DevOps:
-![awsec2]()
+![awsec2](https://img.shields.io/badge/AWS EC2-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![awsrds]()
 ![awss3]()
 ![nginx]()
 ![vercel]()
 ![netflify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-![]()
-![]()
 
 
 ### Tools:
-![]()
-![]()
-![]()
-![]()
+![vscode]()
+![figma]()
+![slack]()
+![notion]()
 ![]()
 ![]()
 ![]()
