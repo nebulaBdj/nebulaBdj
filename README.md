@@ -30,7 +30,7 @@ ___
 
 ### Back-End:
 ![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express-43853D?style=for-the-badge&logo=Express&logoColor=white)
+![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![sequelize](https://img.shields.io/badge/sequelize-8ccfff?style=for-the-badge&logo=sequelize&logoColor=blue)
 
