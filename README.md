@@ -36,8 +36,8 @@ ___
 
 ### DevOps:
 ![awsec2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=Amazonec2&logoColor=white)
-![awsrds](https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=Amazonrds&logoColor=white)
-![awss3](https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![awsrds](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=Amazonrds&logoColor=white)
+![awss3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![netflify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -45,13 +45,12 @@ ___
 
 
 ### Tools:
-![vscode]()
-![figma]()
-![slack]()
-![notion]()
-![]()
-![]()
-![]()
+![figma](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![slack](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![notion](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![git](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![github](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![ERDCloud](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![]()
 ![]()
 ![]()
