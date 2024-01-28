@@ -8,6 +8,9 @@
 - 포스코 X 코딩온 풀스택 웹 개발자 부트캠프 8기 (2023.07 ~ 2023.12)
 - 숭실대학교 소프트웨어학부 (2021.03 ~)
 
+### Contact & Channels 📞☎️:
+- Email | dongdung5070@naver.com
+- Blog | https://pestudent.tistory.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebulaBdj&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebulaBdj&layout=compact)](https://github.com/nebulaBdj/github-readme-stats)
