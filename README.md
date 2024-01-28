@@ -17,12 +17,12 @@ ___
 ## Tech Stack 📚
 
 ### Language:
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo&logo=JavaScript&logoColor=white)
-![ts](https://img.shields.io/badge/TypeScript-007ACC?style=square&logo&logo=typescript&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo&logo=JavaScript&logoColor=white)
+![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Front-End:
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badg&logo=react&logoColor=61DAFB)
-![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoClor=fff&style=square&logo)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoClor=fff&style=for-the-badge)
 ![recoil](https://img.shields.io/badge/Recoil-FF4655?style=for-the-badge&logo=Recoil&logoColor=white)
 ![zustand](https://img.shields.io/badge/Zustand-786032?style=for-the-badge&logo=Zustand&logoColor=white)
 ![tailwindCsss](https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white)
