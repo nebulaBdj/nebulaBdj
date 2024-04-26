@@ -11,7 +11,7 @@
 - 숭실대학교 소프트웨어학부 (2021.03 ~)
 
 ### Contact & Channels 📞:
-- Email | dongdung5070@naver.com
+- Email | dongdung5070@gmail.com
 - Blog | https://pestudent.tistory.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebulaBdj&show_icons=true&theme=radical)
