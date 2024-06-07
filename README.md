@@ -31,7 +31,8 @@ ___
 ![recoil](https://img.shields.io/badge/Recoil-FF4655?style=flat-square&logo=Recoil&logoColor=white)
 ![zustand](https://img.shields.io/badge/Zustand-786032?style=flat-square&logo=Zustand&logoColor=white)
 ![tailwindCsss](https://img.shields.io/badge/TailwindCss-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-DB7093?style=flat-square&logo=sass&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![styled-component](https://img.shields.io/badge/styled-component-DB7093?style=flat-square&logo=styled-component&logoColor=white)
 
 ### Back-End:
 ![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -41,8 +42,6 @@ ___
 
 ### DevOps:
 ![awsec2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=Amazonec2&logoColor=white)
-![awsrds](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=Amazonrds&logoColor=white)
-![awss3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![netflify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
