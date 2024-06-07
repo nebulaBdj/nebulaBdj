@@ -32,7 +32,7 @@ ___
 ![zustand](https://img.shields.io/badge/Zustand-786032?style=flat-square&logo=Zustand&logoColor=white)
 ![tailwindCsss](https://img.shields.io/badge/TailwindCss-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![styled-component](https://img.shields.io/badge/styled-component-DB7093?style=flat-square&logo=styled-component&logoColor=white)
+![styled-component](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 
 ### Back-End:
 ![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
