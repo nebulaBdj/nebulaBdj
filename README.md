@@ -30,8 +30,7 @@ ___
 ![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoClor=fff&style=flat-square)
 ![recoil](https://img.shields.io/badge/Recoil-FF4655?style=flat-square&logo=Recoil&logoColor=white)
 ![zustand](https://img.shields.io/badge/Zustand-786032?style=flat-square&logo=Zustand&logoColor=white)
-![tailwindCsss](https://img.shields.io/badge/TailwindCss-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![tailwindCss](https://img.shields.io/badge/TailwindCss-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
 ![styled-component](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 
 ### Back-End:
