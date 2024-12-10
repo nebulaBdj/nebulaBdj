@@ -37,18 +37,6 @@ ___
 ![tailwindCss](https://img.shields.io/badge/TailwindCss-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
 ![styled-component](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 
-### Back-End:
-![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![sequelize](https://img.shields.io/badge/sequelize-8ccfff?style=flat-square&logo=sequelize&logoColor=blue)
-
-### DevOps:
-![awsec2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=Amazonec2&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![netflify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
 
 
 ### Tools:
