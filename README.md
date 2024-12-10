@@ -46,4 +46,3 @@ ___
 ![discord](https://img.shields.io/badge/Discord-4263f5?style=flat-square&logo=Discord&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)
-![ERDCloud](https://img.shields.io/badge/ERDCloud-cf45d9?style=flat-square&logo=ERDCloud&logoColor=white)
