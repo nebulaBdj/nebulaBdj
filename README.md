@@ -24,8 +24,9 @@
 - Email | dongdung5070@gmail.com
 - Blog | https://pestudent.tistory.com/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebulaBdj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebulaBdj&layout=compact)](https://github.com/nebulaBdj/github-readme-stats)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebulaBdj&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebulaBdj&layout=compact)](https://github.com/nebulaBdj/github-readme-stats) -->
+
 
 ___
 
